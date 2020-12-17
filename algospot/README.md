@@ -8,4 +8,4 @@
 
 ### python3 기준으로 책에 있는 알고리즘으로 풀리지 않는 경우 (python의 성능으로 처리가 안되는 경우)
 
-* boardcover
+* boardcover(brute force)
