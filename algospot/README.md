@@ -10,3 +10,4 @@
 
 * boardcover(brute force)
 * jlis(dynamic programming)
+* pi(dynamic programming)
